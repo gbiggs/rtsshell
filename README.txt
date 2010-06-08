@@ -1,3 +1,9 @@
+******************************************************************************
+rtsshell is no longer under development. Please use rtshell instead.
+See http://github.com/gbiggs/rtshell
+******************************************************************************
+
+
 rtresurrect, rtteardown, rtcryo, rtstart, rtstop
 ===============================================================================
 
